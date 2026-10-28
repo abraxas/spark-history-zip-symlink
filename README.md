@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/spark-history-zip-symlink">spark-history-zip-symlink</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/spark-history-zip-symlink"><strong>https://abraxaslabs.tech/research/spark-history-zip-symlink</strong></a>
+</p>
+
 
 # spark-history-zip-symlink
 
